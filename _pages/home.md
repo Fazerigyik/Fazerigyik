@@ -43,7 +43,7 @@ feature_row4:
     btn_label: "Whatever you want your button to say" 
 ---
 
-Member of the [X lab](link to your lab's website)! 
+Member of the [X lab]([link to your lab's website](https://labs.vetmedbiosci.colostate.edu/kading/))! 
 
 # Reseach
 
