@@ -21,7 +21,7 @@ title                    : "Faustus Research"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Faustus Azerigyik"
-description              : "An amazing websit  This website showcases the research, publications, and projects of Dr. Faustus Azerigyik, a scientist focused on advancing fundamental understanding in the field of medical entomology and arbovirus transmission. Our work aims to uncover the basic mechanisms underlying arbovirus transmission and spillover infections. You will find updates on current research, collaborative projects, open positions, and educational outreach. Whether you are a fellow scientist, student, or science enthusiast, we welcome you to explore the foundations of discovery that drive innovation in science and medicine."
+description              : "This website showcases the research, publications, and projects of Dr. Faustus Azerigyik, a scientist focused on advancing fundamental understanding in the field of medical entomology and arbovirus transmission."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Faustus Azerigyik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "My work aims to uncover the basic mechanisms underlying arbovirus transmission and spillover infections. You will find updates on current research, collaborative projects, open positions, and educational outreach. Whether you are a fellow scientist, student, or science enthusiast, we welcome you to explore the foundations of discovery that drive innovation in science and medicine."
+  location         : "United State"
+  email            : faustusazerigyik@gmail.com
   links:
-    - label: "Email"
+    - label: "faustusazerigyik@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
