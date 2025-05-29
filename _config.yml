@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Faustus Research"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Faustus Azerigyik"
+description              : "An amazing websit  This website showcases the research, publications, and projects of Dr. Faustus Azerigyik, a scientist focused on advancing fundamental understanding in the field of medical entomology and arbovirus transmission. Our work aims to uncover the basic mechanisms underlying arbovirus transmission and spillover infections. You will find updates on current research, collaborative projects, open positions, and educational outreach. Whether you are a fellow scientist, student, or science enthusiast, we welcome you to explore the foundations of discovery that drive innovation in science and medicine."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
